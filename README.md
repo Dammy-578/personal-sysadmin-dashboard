@@ -59,7 +59,7 @@ Dashboard not showing login screen	Skipped password for now; noted for future im
 📸 Screenshots
 You can view the screenshots in the screenshots/ folder in this repository:
 
-🔗 Click here to view the screenshots folder
+🔗 https://github.com/Dammy-578/personal-sysadmin-dashboard/blob/main/Screenshot%202025-04-25%20154914.png
 
 
 Screenshot	Description
